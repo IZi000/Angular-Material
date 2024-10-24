@@ -20,6 +20,6 @@ describe('PaginainicialComponent', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
-
+  
 });
 
